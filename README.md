@@ -12,9 +12,6 @@
 
 <!--================= Socials =================-->
 <p align="center">
-  <a href="https://github.com/anshxl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/anshxlsrivastava/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -28,7 +25,7 @@
 <!--================= Stats =================-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anshxl&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anshxl&show_icons=true&theme=tokyonight_duo" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=anshxl&show_icons=true&theme=tokyonight_duo" alt="GitHub Stats" /> -->
 </p>
 
 ---
@@ -61,13 +58,13 @@
 
 ### 🚀 Projects Highlights
 
-- **[Skin Cancer Classifier](https://github.com/anshul-srivastava/skin-cancer-classifier)**  
+- **[Skin Cancer Classifier](https://github.com/anshxl/skin-cancer-classifier)**  
   CNN + LGBM ensemble achieving top Kaggle rank.
 
-- **[MemoryCapsule Journaling Assistant](https://github.com/anshul-srivastava/memory-capsule)**  
+- **[MemoryCapsule Journaling Assistant](https://github.com/anshxl/memory-capsule)**  
   A personal journaling assistant powered by LLMs and RAG.
 
-- **[Reddit Deep Dive Using NLP](https://github.com/anshul-srivastava/golden-spikes)**  
+- **[Reddit Deep Dive Using NLP](https://github.com/anshxl/golden-spikes)**  
   Subreddit sentiment spikes and how they affect gold prices
 
 ---
