@@ -33,13 +33,13 @@
 ### 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,linux" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,mysql,linux,bash,github,latex" alt="languages" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,fastapi,streamlit,pandas,numpy,matplotlib" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,fastapi,ai" alt="frameworks" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -51,7 +51,7 @@
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="databases" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain,mlflow,onnx, opencv" alt="currently learning" />
+  <img src="https://skillicons.dev/icons?i=opencv" alt="currently learning" />
 </p>
 
 ---
